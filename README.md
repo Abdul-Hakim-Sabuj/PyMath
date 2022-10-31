@@ -11,4 +11,12 @@ $ sudo git clone https://github.com/Abdul-Hakim-Sabuj/PyMath.git
 $ cd PyMath
 $ python3 setup.py
 ```
+
+or just do
+
+```
+$ pip install PyMath-Stable
+```
+
+
 # Thank you for downloading PyMath
