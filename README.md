@@ -7,7 +7,8 @@ The actuall package of python is <https://pypi.org/project/PyMath-Stable/>
 To install first do
 
 ```
-$ sudo git clone d
+$ sudo git clone https://github.com/Abdul-Hakim-Sabuj/PyMath.git
 $ cd PyMath
 $ python3 setup.py
 ```
+# Thank you for downloading PyMath
