@@ -20,6 +20,14 @@ or just do
 ```
 $ pip install PyMath-Stable
 ```
+# Requirements
 
+OS: Any
+
+
+Packages: None
+
+
+Programs: Python
 
 # Thank you for downloading PyMath
